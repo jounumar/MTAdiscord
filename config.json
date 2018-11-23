@@ -1,0 +1,9 @@
+{
+    "port": 27715,
+    "passphrase": "10",
+    "guild": "515551007439323136",
+    "bots": [{
+        "channel": "ooc",
+        "token": "NTE1NTUxMDA3NDM5MzIzMTM2.Dtmv2g.ynbwuJdPG0VcD9WTequCVOL0Peg"
+    }]
+}
